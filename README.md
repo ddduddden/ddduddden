@@ -27,6 +27,8 @@ Based in Northampton, UK, and seeking an early-career network engineering role.
 
 The five-device HQ campus runs OSPF Area 10, with VLAN segmentation, LACP, Rapid PVST+, HSRP, ECMP and deliberate OSPF cost engineering. Controlled failure testing records recovery behaviour, unexpected findings and design limitations.
 
+**HQ V1 accepted — 26 October 2026.** Eleven documented engineering phases are complete, covering campus switching, gateway redundancy, OSPF routing, ECMP, controlled failure testing and final acceptance. The engineering records retain the observed results, unresolved findings and design limitations, which are documented in the final acceptance.
+
 **GitHub is the source of truth** for the design, configurations, test evidence and version history.
 
 **[View the repository](https://github.com/ddduddden/multi-site-cml-lab)** · [Interactive portfolio](https://dominicdudden.co.uk/)
